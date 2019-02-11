@@ -1,0 +1,10 @@
+= README
+
+Instructions:
+
+[source,shell]
+----
+$ clojure -A:run
+----
+
+image::flamegraph.svg[opts=interactive]
