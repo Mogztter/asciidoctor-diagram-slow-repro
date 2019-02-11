@@ -1,0 +1,7 @@
+{:paths ["src"]
+ :deps
+ {org.asciidoctor/asciidoctorj {:mvn/version "1.6.0-alpha.6"}
+  org.asciidoctor/asciidoctorj-diagram {:mvn/version "1.5.12"}
+  net.sourceforge.plantuml/plantuml {:mvn/version "1.2018.13"}
+  
+  com.clojure-goes-fast/clj-async-profiler {:mvn/version "0.3.0"}}}
